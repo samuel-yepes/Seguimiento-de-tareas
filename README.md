@@ -1,6 +1,6 @@
 # React + TypeScript + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Proyecto de tareas en funcion de porder administrar y tener un seguimiento de tareas ya sea. trabajo, estudio, etc.
 
 Currently, two official plugins are available:
 
