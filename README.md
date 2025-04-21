@@ -2,6 +2,8 @@
 
 Proyecto de tareas en funcion de porder administrar y tener un seguimiento de tareas ya sea. trabajo, estudio, etc.
 
+![Imagen de WhatsApp 2025-04-20 a las 20 21 54_6bb56184](https://github.com/user-attachments/assets/18fae200-5bd8-4b0f-8060-d108b4c8762d)
+
 
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
